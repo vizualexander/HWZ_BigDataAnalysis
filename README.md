@@ -1,4 +1,4 @@
-# HWZ_BigDataAnalysis
+# HWZ BigDataAnalysis
 <b>CAS - Big Data Analysis</b>
 
 The following repository contains sample codes and datasets for my studies on Big Data Analysis (HWZ Zuerich).
